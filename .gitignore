@@ -1,2 +1,4 @@
 ./src/main/GCP/.terraform/
 .idea/
+./src/main/
+./src/main/GCP/secret.json
