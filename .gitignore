@@ -2,3 +2,4 @@
 .idea/
 ./src/main/
 ./src/main/GCP/secret.json
+./src/main/*
